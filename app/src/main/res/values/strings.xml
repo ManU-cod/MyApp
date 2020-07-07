@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MI App</string>
+    <string name="hello">Hola Mundo</string>
+    <string name="yo">Yo soy EMANUEL</string>
+    <string name="lang">Cambiar Idioma</string>
+    <string name="email">Email</string>
+
+
+</resources>
